@@ -21,7 +21,7 @@ It's a simple two-variable generative model.
 
 # About `bct` package in python
 
-Many times, an error occurred when I use `generative_model()` function, so I modify the source code and check the result. The test environment is:
+Frequently, an error occurred when I use `generative_model()` function, so I modify the source code and check the result. The test environment is:
 
 *   python 3.8.12
 *   numpy 1.20.3
